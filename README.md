@@ -2,7 +2,7 @@
 
 Video Tracking DEMO
 
-[Watch the video](./demo/seg_video/output_video.mp4)
+![Video GIF](./demo/seg_video/output_video.mp4)
 
 
 The structure of the project is as following picture:
