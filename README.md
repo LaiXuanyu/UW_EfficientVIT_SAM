@@ -1,8 +1,6 @@
 # UnderWater EfficientVIT-SAM Structual
 
-Video Tracking DEMO
-
-**Single-instruction:** This video shows the result of our model segment real-world underwater human diver
+**Video Tracking DEMO:** This video shows the result of our model segment real-world underwater human diver
 
 ![Demo](./demo/seg_video/output_video.gif)
 
